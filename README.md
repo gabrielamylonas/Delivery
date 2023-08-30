@@ -1,4 +1,4 @@
-<h1 align="center">Delivery/h1>
+<h1 align="center">Delivery</h1>
 
 ![Badge](https://img.shields.io/static/v1?label=Status&message=Finished&color=brigthgreen&style=flat)
 ![Badge](https://img.shields.io/static/v1?label=Licence&message=MIT&color=purple&style=flat)
