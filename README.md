@@ -18,7 +18,7 @@
 - Button to scroll up
 
 ## :computer: Deploy
-- [Deploy](https://gabrielamylonas.github.io/delivery/)
+- [Deploy](https://gabrielamylonas.github.io/Delivery/)
 - [Code](https://github.com/gabrielamylonas/delivery)
 
 ## :arrow_forward: How to run the code
